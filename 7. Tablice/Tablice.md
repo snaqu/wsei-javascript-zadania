@@ -11,7 +11,7 @@ Stwórz tablicę z dowolnymi elementami a następnie w konsoli wypisz:
 3. Wszystkie elementy
 4. Co drugi element
 5. Wszystkie stringi
-6. Wszystkie numbery 
+6. Wszystkie numbery
 
 #### Zadanie 3
 
