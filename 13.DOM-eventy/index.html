@@ -9,6 +9,11 @@
     <button id="test-event">Kliknij mnie i sprawdź eventy</button>
     <br />
     <br />
+
+    <div>
+        <button id="ex5-button">Klik</button>
+        <span id="ex5">0</span>
+    </div>
     <div>
         <input type="text" id="input-test" />
         <span id="ex3-err"></span>
@@ -16,7 +21,7 @@
 
     <br />
     <br />
-    
+
     <div>
         <button id="ex2" data-text="To jest tekst z buttona wpisany do spanaa">Zadanie 2</button>
         <span id="span-ex2"></span>
@@ -25,26 +30,27 @@
     <br />
     <br />
     <div id="calculator">
-        <input type="text" />
+        <input id="calculator-input" type="text" />
         <br />
         <br />
         <div>
-            <button>1</button>
-            <button>2</button>
-            <button>3</button>
-            <button>4</button>
-            <button>5</button>
-            <button>6</button>
-            <button>7</button>
-            <button>8</button>
-            <button>9</button>
-            <button>0</button>
+            <button class="calculator-numbers" data-value="1">1</button>
+            <button class="calculator-numbers" data-value="2">2</button>
+            <button class="calculator-numbers" data-value="3">3</button>
+            <button class="calculator-numbers" data-value="4">4</button>
+            <button class="calculator-numbers" data-value="5">5</button>
+            <button class="calculator-numbers" data-value="6">6</button>
+            <button class="calculator-numbers" data-value="7">7</button>
+            <button class="calculator-numbers" data-value="8">8</button>
+            <button class="calculator-numbers" data-value="9">9</button>
+            <button class="calculator-numbers" data-value="0">0</button>
         </div>
         <div>
-            <button>+</button>
-            <button>-</button>
-            <button>*</button>
-            <button>/</button>
+            <button class="calculator-button" data-value="+">+</button>
+            <button class="calculator-button" data-value="-">-</button>
+            <button class="calculator-button" data-value="*">*</button>
+            <button class="calculator-button" data-value="/">/</button>
+            <button class="calculator-button" data-value="=">=</button>
         </div>
     </div>
 
