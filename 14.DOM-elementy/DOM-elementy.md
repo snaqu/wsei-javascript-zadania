@@ -26,8 +26,8 @@ Zmień klasę elementowi o id spanText na dowolną
 
 #### Zadanie 6
 
-Napisz funkcję która przyjmie jako parametr listę klass elementu o id classes. Następnie funkcja powinna wypisać w konsoli pojedynczo wszystkie klasy a na końcu wyświetlić string z połączonych klass znakiem '+'. 
-Następnie usuń wszystkie klasy temu elementowi i wypisz w konsoli tekst: "Usunięto wszystkie klasy". 
+Napisz funkcję która przyjmie jako parametr listę klass elementu o id classes. Następnie funkcja powinna wypisać w konsoli pojedynczo wszystkie klasy a na końcu wyświetlić string z połączonych klass znakiem '+'.
+Następnie usuń wszystkie klasy temu elementowi i wypisz w konsoli tekst: "Usunięto wszystkie klasy".
 
 #### Zadanie 7
 
@@ -45,7 +45,7 @@ Obiekt ten przekaż do drugiej funkcji w której odczytasz string z obiektu i pr
 
 #### Zadanie 9
 
-Napisz funkcję która będzie dodawać odpowiednią klasę do elementu o id "numbers" w zależności od przekazanego parametru. Parametr powinien być losową liczbą z zakresu 0-10. 
+Napisz funkcję która będzie dodawać odpowiednią klasę do elementu o id "numbers" w zależności od przekazanego parametru. Parametr powinien być losową liczbą z zakresu 0-10.
 Jeśli liczba będzie parzysta ustaw klasę 'even' jak nieparzysta 'odd;
 
 #### Zadanie 10
